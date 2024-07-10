@@ -73,6 +73,8 @@ Omdena hosts collaborative AI projects where participants work together to solve
 [Concept Design](https://github.com/sourceduty/Concept_Design)
 <br>
 [Boat Design](https://github.com/sourceduty/Boats)
+<br>
+[Creative Competitor](https://chat.openai.com/g/g-QrvZzVunC-creative-competitor)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
