@@ -35,7 +35,9 @@ The Google AI Impact Challenge supports organizations that leverage AI to addres
 #
 ### NeurIPS Competitions
 
-NeurIPS competitions cover a wide range of AI topics, including generative AI, reinforcement learning, and signal reconstruction. These competitions offer a platform for participants to advance AI research and solve complex problems. By participating, researchers and developers can collaborate, innovate, and contribute to the scientific community's understanding of AI and machine learning. [NeurIPS Competitions](https://neurips.cc/Conferences/2024/CallForCompetitions)
+NeurIPS competitions cover a wide range of AI topics, including generative AI, reinforcement learning, and signal reconstruction. These competitions offer a platform for participants to advance AI research and solve complex problems. By participating, researchers and developers can collaborate, innovate, and contribute to the scientific community's understanding of AI and machine learning. 
+
+[NeurIPS Competitions](https://neurips.cc/Conferences/2024/CallForCompetitions)
 
 #
 ### Driven Data Competitions
