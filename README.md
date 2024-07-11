@@ -12,6 +12,14 @@ Winners of the AI Design Award receive significant benefits, including global re
 [AI Design Award](https://www.aidesignaward.com/)
 
 #
+### Desall Industrial Design Constest
+
+A multinational corporation, with a vision of making a difference in consumer lives, seeks to create the future of our home experiences starting with its epicentre, the kitchen.
+In partnership with Desall, this design contest invites applications to transform the classic mixer grinder into an appliance of the future addressing deep consumer pains and solving them through cutting-edge technology and design, invoking a sense of pride and ownership.
+
+[Appliance of the Future](https://www.desall.com/Contest/Appliance-of-the-Future/Brief)
+
+#
 ### IEEE Big Data Cup
 
 The IEEE Big Data Cup is a prominent competition that focuses on leveraging large-scale datasets to solve real-world challenges across various domains such as healthcare and finance. Participants use advanced techniques in data analysis, machine learning, and statistical modeling to develop innovative solutions and gain recognition within the data science community. The competition provides a platform for showcasing expertise, creativity, and problem-solving skills in handling massive datasets, promoting advancements in big data analytics and AI. 
