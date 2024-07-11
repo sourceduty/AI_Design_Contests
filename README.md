@@ -12,7 +12,7 @@ Winners of the AI Design Award receive significant benefits, including global re
 [AI Design Award](https://www.aidesignaward.com/)
 
 #
-### Desall Industrial Design Constest
+### Desall Industrial Design Contest
 
 A multinational corporation, with a vision of making a difference in consumer lives, seeks to create the future of our home experiences starting with its epicentre, the kitchen.
 In partnership with Desall, this design contest invites applications to transform the classic mixer grinder into an appliance of the future addressing deep consumer pains and solving them through cutting-edge technology and design, invoking a sense of pride and ownership.
