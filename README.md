@@ -17,6 +17,8 @@ Winners of the AI Design Award receive significant benefits, including global re
 A multinational corporation, with a vision of making a difference in consumer lives, seeks to create the future of our home experiences starting with its epicentre, the kitchen.
 In partnership with Desall, this design contest invites applications to transform the classic mixer grinder into an appliance of the future addressing deep consumer pains and solving them through cutting-edge technology and design, invoking a sense of pride and ownership.
 
+![Concept Lightbulb Food Mixer](https://github.com/sourceduty/AI_Design_Contests/assets/123030236/577f17a4-9a8c-4b88-afe3-1734f33fe10e)
+
 [Appliance of the Future](https://www.desall.com/Contest/Appliance-of-the-Future/Brief)
 
 #
