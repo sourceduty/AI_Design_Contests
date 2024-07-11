@@ -63,7 +63,7 @@ Omdena hosts collaborative AI projects where participants work together to solve
 
 #
 
-![Creative](https://github.com/sourceduty/AI_Design_Contests/assets/123030236/cf14ba59-06ea-4baf-acc2-dab914fc7949)
+![Blender](https://github.com/sourceduty/AI_Design_Contests/assets/123030236/d60774f9-f9ca-463e-9fb9-7e4be0d6a01b)
 
 #
 ### Related Links
