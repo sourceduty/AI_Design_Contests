@@ -73,7 +73,7 @@ This minimalist modern kitchen blender features a sleek cylindrical design with 
 
 #
 
-> Alex: "*This is a failed simple and very rough concept.*"
+> Alex: "*This is a failed, simple and very rough concept.*"
 
 #
 
