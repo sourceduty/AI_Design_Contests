@@ -9,6 +9,12 @@ The AI Design Award is a prestigious international competition that recognizes e
 
 Winners of the AI Design Award receive significant benefits, including global recognition, enhanced credibility, and valuable networking opportunities. The accolade includes a trophy, a certificate, and participation in a gala night and exhibition. These benefits help winners showcase their innovative work, attract new clients, and gain exposure through various media channels. By celebrating exceptional AI-integrated design projects, the AI Design Award encourages the continued evolution and application of AI technologies in the creative industries, pushing the boundaries of what is possible in design. 
 
+#
+
+> Alex: "*I might choose and submit 1 or 2 of my publicized insustrial concept designs for this competition.*"
+
+#
+
 [AI Design Award](https://www.aidesignaward.com/)
 
 #
