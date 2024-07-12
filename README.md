@@ -63,7 +63,8 @@ Omdena hosts collaborative AI projects where participants work together to solve
 
 [Omdena Projects](https://omdena.com/projects/)
 
-#
+***
+
 ### Desall Contest Entries 2024
 
 ![Minimalist Modern Kitchen Blender Ad3](https://github.com/user-attachments/assets/db3dc204-72a2-4726-9443-be4ad681972d)
