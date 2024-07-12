@@ -64,6 +64,17 @@ Omdena hosts collaborative AI projects where participants work together to solve
 [Omdena Projects](https://omdena.com/projects/)
 
 #
+### Desall Contest Entries 2024
+
+![Minimalist Modern Kitchen Blender Ad3](https://github.com/user-attachments/assets/db3dc204-72a2-4726-9443-be4ad681972d)
+
+This minimalist modern kitchen blender features a sleek cylindrical design with a smooth metallic finish, exuding contemporary sophistication. Its transparent upper chamber allows users to monitor the blending process, while the stainless steel construction ensures durability and resistance to rust.
+
+#
+
+> Alex: "*This is a simple and very rough concept.*"
+
+#
 
 ![Blender](https://github.com/sourceduty/AI_Design_Contests/assets/123030236/d60774f9-f9ca-463e-9fb9-7e4be0d6a01b)
 
