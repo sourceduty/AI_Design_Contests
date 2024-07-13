@@ -86,9 +86,9 @@ This minimalist modern kitchen blender features a sleek cylindrical design with 
 > Alex: "*This is a failed, simple and very rough concept.*"
 
 #
-
-![Blender](https://github.com/sourceduty/AI_Design_Contests/assets/123030236/d60774f9-f9ca-463e-9fb9-7e4be0d6a01b)
-
+![Blender](https://github.com/user-attachments/assets/f9a77a9e-1ecb-4451-b643-1c6153365956)
+#
+![Desall 2024](https://github.com/user-attachments/assets/97773233-ad2f-415b-be78-04e38c6e6711)
 #
 ### Related Links
 
