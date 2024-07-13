@@ -25,6 +25,8 @@ In partnership with Desall, this design contest invites applications to transfor
 
 #
 > Alex: "*Sourceduty is a competitor in this contest with multiple designs.*"
+
+> "*I'm excited to share my designs and possibly claim this €5000 contest award.*"
 #
 
 ![Concept Lightbulb Food Mixer](https://github.com/sourceduty/AI_Design_Contests/assets/123030236/577f17a4-9a8c-4b88-afe3-1734f33fe10e)
