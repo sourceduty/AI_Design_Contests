@@ -73,6 +73,13 @@ Omdena hosts collaborative AI projects where participants work together to solve
 
 [Omdena Projects](https://omdena.com/projects/)
 
+#
+### Redefining the Drinking Glass
+
+TRAGA invites all designers and creative minds to participate in our next open call: Redefining the Drinking Glass. We encourage you to explore your creativity freely, whether your concept is radical, minimalistic, sculptural or hyper-functional. Redefine the everyday essential glass that accommodates beverages from water, juice, milk to sophisticated cocktails.
+
+[Redefining the Drinking Glass](https://traga.it/blogs/news/open-call-redefining-the-drinking-glass-tumbler)
+
 ***
 
 ### Desall Contest Entries 2024
