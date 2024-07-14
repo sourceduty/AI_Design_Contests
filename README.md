@@ -11,7 +11,7 @@ Winners of the AI Design Award receive significant benefits, including global re
 
 #
 
-> Alex: "*I might choose and submit 1 or 2 of my publicized insustrial concept designs for this competition.*"
+> Alex: "*I might choose and submit 1 or 2 of my publicized industrial concept designs for this competition.*"
 
 #
 
