@@ -32,6 +32,8 @@ In partnership with Desall, this design contest invites applications to transfor
 ![Concept Lightbulb Food Mixer](https://github.com/sourceduty/AI_Design_Contests/assets/123030236/577f17a4-9a8c-4b88-afe3-1734f33fe10e)
 
 [Appliance of the Future](https://www.desall.com/Contest/Appliance-of-the-Future/Brief)
+<br>
+[Sourceduty](https://desall.com/User/sourceduty/Profile)
 
 #
 ### IEEE Big Data Cup
