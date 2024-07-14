@@ -90,6 +90,13 @@ TRAGA invites all designers and creative minds to participate in our next open c
 
 [Redefining the Drinking Glass](https://traga.it/blogs/news/open-call-redefining-the-drinking-glass-tumbler)
 
+#
+### Feeel Design World Prize
+
+The Feeel Design World Prize is an international award recognizing excellence in design across various categories, including industrial design, architecture, and interior design. Winners in each category receive the production of a prototype and a contract. The competition aims to support and promote designers and artists by providing them with opportunities to bring their projects to life. The prize also features a distinguished jury comprising renowned designers and industry experts.
+
+[Feeel Design World Prize](https://feeelprize.com/)
+
 ***
 
 ### Desall Contest Entries 2024
