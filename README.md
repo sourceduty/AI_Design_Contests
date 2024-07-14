@@ -33,7 +33,7 @@ In partnership with Desall, this design contest invites applications to transfor
 
 [Appliance of the Future](https://www.desall.com/Contest/Appliance-of-the-Future/Brief)
 <br>
-[Sourceduty](https://desall.com/User/sourceduty/Profile)
+[Desall: Sourceduty](https://desall.com/User/sourceduty/Profile)
 
 #
 ### IEEE Big Data Cup
