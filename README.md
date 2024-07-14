@@ -82,6 +82,8 @@ Omdena hosts collaborative AI projects where participants work together to solve
 
 TRAGA invites all designers and creative minds to participate in our next open call: Redefining the Drinking Glass. We encourage you to explore your creativity freely, whether your concept is radical, minimalistic, sculptural or hyper-functional. Redefine the everyday essential glass that accommodates beverages from water, juice, milk to sophisticated cocktails.
 
+![Cups](https://github.com/user-attachments/assets/658aaff1-ad0e-452a-943e-6176678df318)
+
 [Redefining the Drinking Glass](https://traga.it/blogs/news/open-call-redefining-the-drinking-glass-tumbler)
 
 ***
