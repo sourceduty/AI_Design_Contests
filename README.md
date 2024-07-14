@@ -97,7 +97,9 @@ This minimalist modern kitchen blender features a sleek cylindrical design with 
 #
 ![Blender](https://github.com/user-attachments/assets/f9a77a9e-1ecb-4451-b643-1c6153365956)
 #
-![Desall 2024](https://github.com/user-attachments/assets/cbca739c-3c1d-479f-9a8e-17ac884c9717)
+![Desall Designs](https://github.com/user-attachments/assets/c04a3690-df3a-4ded-8cda-ec3f79b3b410)
+#
+![Concepts](https://github.com/user-attachments/assets/b19ee4a4-fbe6-44cf-910e-81d161e2d833)
 #
 ### Related Links
 
