@@ -83,7 +83,7 @@ Omdena hosts collaborative AI projects where participants work together to solve
 TRAGA invites all designers and creative minds to participate in our next open call: Redefining the Drinking Glass. We encourage you to explore your creativity freely, whether your concept is radical, minimalistic, sculptural or hyper-functional. Redefine the everyday essential glass that accommodates beverages from water, juice, milk to sophisticated cocktails.
 
 #
-> Alex: "*Sourceduty is a competitor in this competition.*"
+> Alex: "*Sourceduty is a competitor in this competition with multiple designs.*"
 #
 
 ![Cups](https://github.com/user-attachments/assets/658aaff1-ad0e-452a-943e-6176678df318)
@@ -126,6 +126,8 @@ This minimalist modern kitchen blender features a sleek cylindrical design with 
 [Creative Competitor](https://chat.openai.com/g/g-QrvZzVunC-creative-competitor)
 <br>
 [Floating Wine Glass](https://cults3d.com/en/3d-model/various/floating-wine-glass-cup-sourceduty)
+<br>
+[Diamond Cocktail Cup](https://cults3d.com/en/3d-model/home/diamond-martini-glass-drink-cocktail-cup-shapetask)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
