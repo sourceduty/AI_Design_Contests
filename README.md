@@ -124,6 +124,8 @@ This minimalist modern kitchen blender features a sleek cylindrical design with 
 [Boat Design](https://github.com/sourceduty/Boats)
 <br>
 [Creative Competitor](https://chat.openai.com/g/g-QrvZzVunC-creative-competitor)
+<br>
+[Floating Wine Glass](https://cults3d.com/en/3d-model/various/floating-wine-glass-cup-sourceduty)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
