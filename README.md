@@ -101,6 +101,10 @@ The Feeel Design World Prize is an international award recognizing excellence in
 
 ![Electronic Gold Bar Weight Scale](https://github.com/user-attachments/assets/9ac4bb05-bff8-498c-925f-5450e41527df)
 
+#
+
+![Feeel Design](https://github.com/user-attachments/assets/a387d7fe-c289-4c03-ab18-94ab1964f889)
+
 [Feeel Design World Prize](https://feeelprize.com/)
 
 ***
