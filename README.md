@@ -95,6 +95,8 @@ TRAGA invites all designers and creative minds to participate in our next open c
 
 The Feeel Design World Prize is an international award recognizing excellence in design across various categories, including industrial design, architecture, and interior design. Winners in each category receive the production of a prototype and a contract. The competition aims to support and promote designers and artists by providing them with opportunities to bring their projects to life. The prize also features a distinguished jury comprising renowned designers and industry experts.
 
+![Electronic Gold Bar Weight Scale](https://github.com/user-attachments/assets/c99e1b76-6b72-494f-a4f9-b9cfb23277b7)
+
 [Feeel Design World Prize](https://feeelprize.com/)
 
 ***
