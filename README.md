@@ -84,6 +84,8 @@ TRAGA invites all designers and creative minds to participate in our next open c
 
 #
 > Alex: "*Sourceduty is a competitor in this competition with multiple designs.*"
+
+> "*I'm excited to share my designs and possibly claim this €300 prize.*"
 #
 
 ![Cups](https://github.com/user-attachments/assets/a40e6efa-4f91-49f9-883c-b67377b4b8b8)
