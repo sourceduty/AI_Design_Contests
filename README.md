@@ -86,7 +86,7 @@ TRAGA invites all designers and creative minds to participate in our next open c
 > Alex: "*Sourceduty is a competitor in this competition with multiple designs.*"
 #
 
-![Cups](https://github.com/user-attachments/assets/658aaff1-ad0e-452a-943e-6176678df318)
+![Cups](https://github.com/user-attachments/assets/a40e6efa-4f91-49f9-883c-b67377b4b8b8)
 
 [Redefining the Drinking Glass](https://traga.it/blogs/news/open-call-redefining-the-drinking-glass-tumbler)
 
