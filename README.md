@@ -144,7 +144,7 @@ This minimalist modern kitchen blender features a sleek cylindrical design with 
 <br>
 [Creative Competitor](https://chat.openai.com/g/g-QrvZzVunC-creative-competitor)
 <br>
-[Floating Wine Glass](https://cults3d.com/en/3d-model/various/floating-wine-glass-cup-sourceduty)
+[Floating Wineglass](https://cults3d.com/en/3d-model/various/floating-wine-glass-cup-sourceduty)
 <br>
 [Diamond Cocktail Cup](https://cults3d.com/en/3d-model/home/diamond-martini-glass-drink-cocktail-cup-shapetask)
 
