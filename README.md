@@ -149,6 +149,8 @@ This minimalist modern kitchen blender features a sleek cylindrical design with 
 [Floating Wineglass](https://cults3d.com/en/3d-model/various/floating-wine-glass-cup-sourceduty)
 <br>
 [Diamond Cocktail Cup](https://cults3d.com/en/3d-model/home/diamond-martini-glass-drink-cocktail-cup-shapetask)
+<br>
+[Electronic Gold Bar Weight Scale](https://feeelprize.com/design/object/electronic-gold-bar-weight-scale/)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
