@@ -40,7 +40,7 @@ In partnership with Desall, this design contest invites applications to transfor
 
 The IEEE Big Data Cup is a prominent competition that focuses on leveraging large-scale datasets to solve real-world challenges across various domains such as healthcare and finance. Participants use advanced techniques in data analysis, machine learning, and statistical modeling to develop innovative solutions and gain recognition within the data science community. The competition provides a platform for showcasing expertise, creativity, and problem-solving skills in handling massive datasets, promoting advancements in big data analytics and AI. 
 
-[IEEE Big Data Cup](https://www.stonybrook.edu/commcms/bigdata/competitions.html)
+[IEEE Big Data Cup](https://www3.cs.stonybrook.edu/~ieeebigdata2024/)
 
 #
 ### AI Driving Olympics (AI-DO)
