@@ -130,6 +130,8 @@ This minimalist modern kitchen blender features a sleek cylindrical design with 
 #
 ![Sourceduty Award](https://github.com/user-attachments/assets/1ec64c4a-97b5-4c3e-bc21-7093b800eb64)
 #
+![Desall](https://github.com/user-attachments/assets/b8474683-bd42-4561-b2cf-14705c2bbcd6)
+#
 ### Related Links
 
 [Luxury Design](https://github.com/sourceduty/Luxury_Design)
