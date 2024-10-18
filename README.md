@@ -26,7 +26,7 @@ In partnership with Desall, this design contest invites applications to transfor
 The "Appliance of the Future" contest starts on October 16, 2023, and ends on September 4, 2024. The announcement of the contest results will take place approximately by the end of November 2024.
 
 #
-> Alex: "*Sourceduty is a competitor in this contest with multiple designs.*"
+> "*Sourceduty is a competitor in this contest with multiple designs.*"
 
 > "*I'm excited to share my designs and possibly claim this €5000 contest award.*"
 #
@@ -89,6 +89,9 @@ The C-IDEA Design Award is an international annual design competition that celeb
 [C-IDEA](https://cidea-union.com/submit/)
 
 #
+> "Sourceduty is a competitor in this competition with multiple designs."
+
+#
 ### Redefining the Drinking Glass
 
 TRAGA invites all designers and creative minds to participate in our next open call: Redefining the Drinking Glass. We encourage you to explore your creativity freely, whether your concept is radical, minimalistic, sculptural or hyper-functional. Redefine the everyday essential glass that accommodates beverages from water, juice, milk to sophisticated cocktails.
@@ -96,7 +99,7 @@ TRAGA invites all designers and creative minds to participate in our next open c
 The TRAGA "Redefining the Drinking Glass" contest has an extended submission deadline of September 1, 2024, allowing additional time for entries. There is no specific date set for when the contest results will be announced. Participants are encouraged to submit their designs before the deadline but will need to wait for further communication from TRAGA regarding the results. Designers should stay informed through official TRAGA channels for any updates on the outcome.
 
 #
-> Alex: "*Sourceduty is a competitor in this competition with multiple designs.*"
+> "*Sourceduty is a competitor in this competition with multiple designs.*"
 
 > "*I'm excited to share my designs and possibly claim this €300 prize.*"
 #
@@ -111,7 +114,7 @@ The TRAGA "Redefining the Drinking Glass" contest has an extended submission dea
 The Feeel Design World Prize is an international award recognizing excellence in design across various categories, including industrial design, architecture, and interior design. Winners in each category receive the production of a prototype and a contract. The competition aims to support and promote designers and artists by providing them with opportunities to bring their projects to life. The prize also features a distinguished jury comprising renowned designers and industry experts.
 
 #
-> Alex: "*Sourceduty is a competitor in this award competition.*"
+> "*Sourceduty is a competitor in this award competition.*"
 
 > "*This electronic gold bar weight scale, while not focused on natural materials, features a sleek design with stainless steel, glossy gold plastic and tempered glass. This design utilizes advanced production technologies such as CNC machining and electronic components for precision and durability. This design stands out with its unique gold bar-inspired design and smart functionalities, and ensures longevity through high-quality materials.*"
 #
@@ -134,7 +137,7 @@ This minimalist modern kitchen blender features a sleek cylindrical design with 
 
 #
 
-> Alex: "*This is a failed, simple and very rough concept.*"
+> "*This is a failed, simple and very rough concept.*"
 
 #
 ![Blender](https://github.com/user-attachments/assets/f9a77a9e-1ecb-4451-b643-1c6153365956)
