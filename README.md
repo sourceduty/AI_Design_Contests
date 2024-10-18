@@ -82,6 +82,8 @@ Omdena hosts collaborative AI projects where participants work together to solve
 
 TRAGA invites all designers and creative minds to participate in our next open call: Redefining the Drinking Glass. We encourage you to explore your creativity freely, whether your concept is radical, minimalistic, sculptural or hyper-functional. Redefine the everyday essential glass that accommodates beverages from water, juice, milk to sophisticated cocktails.
 
+The TRAGA "Redefining the Drinking Glass" contest has an extended submission deadline of September 1, 2024, allowing additional time for entries. There is no specific date set for when the contest results will be announced. Participants are encouraged to submit their designs before the deadline but will need to wait for further communication from TRAGA regarding the results. Designers should stay informed through official TRAGA channels for any updates on the outcome.
+
 #
 > Alex: "*Sourceduty is a competitor in this competition with multiple designs.*"
 
