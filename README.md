@@ -80,6 +80,15 @@ Omdena hosts collaborative AI projects where participants work together to solve
 [Omdena Projects](https://omdena.com/projects/)
 
 #
+### C-IDEA Design Award
+
+![C-IDEA](https://github.com/user-attachments/assets/33486f95-f058-43ba-bfda-83b7ad4a11ec)
+
+The C-IDEA Design Award is an international annual design competition that celebrates innovative talents across multiple fields such as communication, industrial, and fashion design. Open to both professionals and students, the contest offers a platform for showcasing socially impactful designs. Winners benefit from global recognition, including opportunities for media coverage, international exhibitions, and the chance to join the C-IDEA International Jury. Categories include awards for the best overall designs, new talent, and organizational excellence, with results announced during a globally hosted ceremony.
+
+[C-IDEA](https://cidea-union.com/submit/)
+
+#
 ### Redefining the Drinking Glass
 
 TRAGA invites all designers and creative minds to participate in our next open call: Redefining the Drinking Glass. We encourage you to explore your creativity freely, whether your concept is radical, minimalistic, sculptural or hyper-functional. Redefine the everyday essential glass that accommodates beverages from water, juice, milk to sophisticated cocktails.
